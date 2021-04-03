@@ -29,10 +29,11 @@ This is a java web application for tracking workouts. The application allows you
 
 ## Technology
 
-Java 15
-Spring Boot
-Hibernate
-PostgreSQL database
-Swagger
-Gradle
-Flyway
+- Java 15
+- Spring Boot
+- Hibernate
+- PostgreSQL database
+- Swagger
+- Gradle
+- Flyway
+- Travis CI
