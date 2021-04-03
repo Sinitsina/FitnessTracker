@@ -6,7 +6,6 @@ This is a java web application for tracking workouts. The application allows you
 ## Fitness Tracker is a simple REST API that has the capabilities to:
 
 [Sport Activity](https://github.com/Sinitsina/FitnessTracker/blob/master/src/main/java/org/fitnesstracker/FitnessTracker/controller/SportActivityController.java):
--get list of workouts by status or/and date,
 - create a workout,
 - update a workout,
 - delete a workout,
