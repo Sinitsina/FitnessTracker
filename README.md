@@ -25,5 +25,5 @@ This is a java web application for tracking workouts. The application allows you
 - get data about training session.
 
 ## Api_endpoints_documentation
-[Swagger](Swagger.png)
+[Swagger](tree/master/src/main/resources/Swagger.png)
 
