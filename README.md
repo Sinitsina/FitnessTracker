@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/Sinitsina/FitnessTracker.svg?branch=master)](https://travis-ci.org/Sinitsina/FitnessTracker)
-# FitnessTracker
+# Fitness Tracker
 
 This is a java web application for tracking workouts. The application allows you to add different types of categories of workouts, information about a specific training session, get a list of planned and completed workouts.
 
@@ -23,7 +23,7 @@ This is a java web application for tracking workouts. The application allows you
 - delete a training session,
 - get data about training session.
 
-## Api_endpoints_documentation
+## Api endpoints documentation
 ![Swagger](https://github.com/Sinitsina/FitnessTracker/blob/master/src/main/resources/Swagger.png)
 
 ## Technology
