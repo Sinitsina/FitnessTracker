@@ -25,5 +25,5 @@ This is a java web application for tracking workouts. The application allows you
 - get data about training session.
 
 ## Api_endpoints_documentation
-[Swagger](https://github.com/Sinitsina/FitnessTracker/blob/master/src/main/resources/Swagger.png)
+[Swagger](Swagger.png)
 
