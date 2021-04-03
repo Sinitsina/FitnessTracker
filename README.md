@@ -27,3 +27,12 @@ This is a java web application for tracking workouts. The application allows you
 ## Api_endpoints_documentation
 ![Swagger](https://github.com/Sinitsina/FitnessTracker/blob/master/src/main/resources/Swagger.png)
 
+## Technology
+
+Java 15
+Spring Boot
+Hibernate
+PostgreSQL database
+Swagger
+Gradle
+Flyway
