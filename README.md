@@ -28,7 +28,7 @@ This is a java web application for tracking workouts. The application allows you
 
 ## Technology
 
-- Java 15
+- Java 11
 - Spring Boot
 - Hibernate
 - PostgreSQL database
